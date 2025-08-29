@@ -1,0 +1,55 @@
+# 50 Days of Python 🐍
+
+Belajar Python dari **Advanced** sampai **Expert** dalam 50 hari.
+
+## Progress
+- [ ] Day 01: Advanced OOP
+- [ ] Day 02: Decorators
+- [ ] Day 03: Context Managers
+- [ ] Day 04: Iterators and Generators
+- [ ] Day 05: Advanced Exceptions
+- [ ] Day 06: Type Hints
+- [ ] Day 07: Dataclasses and Pydantic
+- [ ] Day 08: Descriptor Protocol
+- [ ] Day 09: Slots and Memory Optimization
+- [ ] Day 10: Enums and Attributes
+- [ ] Day 11: Design Patterns
+- [ ] Day 12: Abstract Base Classes
+- [ ] Day 13: Mixins and Inheritance
+- [ ] Day 14: Dependency Injection
+- [ ] Day 15: Plugin Architecture
+- [ ] Day 16: Monkey Patching and Metaprogramming
+- [ ] Day 17: Introspection and Reflection
+- [ ] Day 18: Python Internals
+- [ ] Day 19: Advanced Import System
+- [ ] Day 20: DSL with Python
+- [ ] Day 21: AsyncIO Advanced
+- [ ] Day 22: Multiprocessing and Shared Memory
+- [ ] Day 23: Threading and GIL
+- [ ] Day 24: Concurrent Futures
+- [ ] Day 25: Profiling and Optimization
+- [ ] Day 26: Cython Basics
+- [ ] Day 27: Numba
+- [ ] Day 28: JIT Compilation
+- [ ] Day 29: Memoryviews and Buffers
+- [ ] Day 30: C Extensions
+- [ ] Day 31: Network Programming
+- [ ] Day 32: FastAPI Advanced
+- [ ] Day 33: GraphQL
+- [ ] Day 34: Event Driven Programming
+- [ ] Day 35: Advanced SQLAlchemy
+- [ ] Day 36: Advanced Pandas
+- [ ] Day 37: Dask
+- [ ] Day 38: Message Queues
+- [ ] Day 39: Websockets
+- [ ] Day 40: ML Pipeline
+- [ ] Day 41: Metaprogramming with AST
+- [ ] Day 42: Bytecode Manipulation
+- [ ] Day 43: Python Interpreter in Python
+- [ ] Day 44: Compilers and Parsers
+- [ ] Day 45: Systems Programming
+- [ ] Day 46: Security and Sandboxing
+- [ ] Day 47: Custom Async Framework
+- [ ] Day 48: Custom ORM
+- [ ] Day 49: AI Optimization
+- [ ] Day 50: Build Programming Language

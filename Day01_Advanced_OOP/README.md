@@ -15,14 +15,14 @@
 
 ## ✅ Tasks Completed
 - Created project folder: `/Day01_Advanced_OOP`  
-- Implemented `main.py` with advanced OOP concepts  
+- Implemented `advancedoop.py` with advanced OOP concepts  
 - Verified output for area & perimeter calculations  
 - Tested Singleton behavior across multiple instances  
 
 ---
 
 ## 📂 Files in This Day
-- `main.py` → Python code example for OOP & Singleton  
+- `advandedoop.py` → Python code example for OOP & Singleton  
 - `README.md` → Documentation and learning notes  
 
 ---

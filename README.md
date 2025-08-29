@@ -1,55 +1,71 @@
-# 50 Days of Python 🐍
+# 🐍 50 Days of Python Challenge
 
-Belajar Python dari **Advanced** sampai **Expert** dalam 50 hari.
+Welcome to my **50 Days of Python Challenge**, where I commit to exploring Python every day for 50 days.  
+The focus is on **intermediate to advanced Python concepts**, covering object-oriented programming, design patterns, concurrency, performance optimization, and more.
 
-## Progress
-- [ ] Day 01: Advanced OOP
-- [ ] Day 02: Decorators
-- [ ] Day 03: Context Managers
-- [ ] Day 04: Iterators and Generators
-- [ ] Day 05: Advanced Exceptions
-- [ ] Day 06: Type Hints
-- [ ] Day 07: Dataclasses and Pydantic
-- [ ] Day 08: Descriptor Protocol
-- [ ] Day 09: Slots and Memory Optimization
-- [ ] Day 10: Enums and Attributes
-- [ ] Day 11: Design Patterns
-- [ ] Day 12: Abstract Base Classes
-- [ ] Day 13: Mixins and Inheritance
-- [ ] Day 14: Dependency Injection
-- [ ] Day 15: Plugin Architecture
-- [ ] Day 16: Monkey Patching and Metaprogramming
-- [ ] Day 17: Introspection and Reflection
-- [ ] Day 18: Python Internals
-- [ ] Day 19: Advanced Import System
-- [ ] Day 20: DSL with Python
-- [ ] Day 21: AsyncIO Advanced
-- [ ] Day 22: Multiprocessing and Shared Memory
-- [ ] Day 23: Threading and GIL
-- [ ] Day 24: Concurrent Futures
-- [ ] Day 25: Profiling and Optimization
-- [ ] Day 26: Cython Basics
-- [ ] Day 27: Numba
-- [ ] Day 28: JIT Compilation
-- [ ] Day 29: Memoryviews and Buffers
-- [ ] Day 30: C Extensions
-- [ ] Day 31: Network Programming
-- [ ] Day 32: FastAPI Advanced
-- [ ] Day 33: GraphQL
-- [ ] Day 34: Event Driven Programming
-- [ ] Day 35: Advanced SQLAlchemy
-- [ ] Day 36: Advanced Pandas
-- [ ] Day 37: Dask
-- [ ] Day 38: Message Queues
-- [ ] Day 39: Websockets
-- [ ] Day 40: ML Pipeline
-- [ ] Day 41: Metaprogramming with AST
-- [ ] Day 42: Bytecode Manipulation
-- [ ] Day 43: Python Interpreter in Python
-- [ ] Day 44: Compilers and Parsers
-- [ ] Day 45: Systems Programming
-- [ ] Day 46: Security and Sandboxing
-- [ ] Day 47: Custom Async Framework
-- [ ] Day 48: Custom ORM
-- [ ] Day 49: AI Optimization
-- [ ] Day 50: Build Programming Language
+This repository serves as a personal roadmap to strengthen my understanding of Python and to build a solid foundation for solving real-world problems.
+
+---
+
+## 📂 What This Repo Contains
+
+### 🏗️ Core Python Concepts
+- Advanced Object-Oriented Programming (OOP)
+- Decorators and Context Managers
+- Iterators, Generators, and Descriptors
+- Type Hints and Dataclasses
+- Slots and Memory Optimization
+- Enums and Attributes
+
+### 🎨 Design & Architecture
+- Design Patterns (Singleton, Factory, etc.)
+- Abstract Base Classes and Mixins
+- Dependency Injection
+- Plugin Architecture
+- Monkey Patching and Metaprogramming
+- Introspection and Reflection
+- Python Internals & Import System
+
+### ⚡ Concurrency & Performance
+- Advanced AsyncIO
+- Multiprocessing and Shared Memory
+- Threading and the GIL
+- Concurrent Futures
+- Profiling and Optimization
+
+### 🔧 Advanced Applications
+- Domain-Specific Languages (DSL) with Python
+- Exploring real-world use cases of Python internals
+- Building scalable and optimized code
+
+---
+
+## 🎯 Goals
+- Strengthen my knowledge of Python beyond the basics  
+- Improve problem-solving and code optimization skills  
+- Document progress and create a reference for future learning  
+- Build a foundation for writing clean, maintainable, and scalable software  
+
+---
+
+## 📁 Folder Structure
+- `/Day01_Advanced_OOP` → OOP deep dive  
+- `/Day02_Decorators` → Decorators in action  
+- `/Day03_Context_Managers` → Context managers & resource handling  
+- ...  
+- `/Day50_*` → Final advanced topic / project  
+
+---
+
+## 💡 Why This Repo is Useful
+- Acts as a step-by-step Python roadmap from intermediate to advanced concepts  
+- Provides practical code examples to reinforce theory  
+- Useful as a reference for future projects or when tackling complex problems  
+- Helps in preparing for interviews, system design, and backend development with Python  
+
+---
+
+Thank you for checking out this repository!  
+Feel free to explore, share feedback, or contribute. Every bit of collaboration helps me grow as a developer.  
+
+**_"Code, learn, build, repeat."_**

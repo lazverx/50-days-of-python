@@ -1,6 +1,6 @@
 # Day 5 – Advanced Exception Handling
 
-**Date:** 2025-09-03  
+**Date:** 2025-09-02  
 
 ## What I Learned
 - Difference between **built-in exceptions** and **custom exceptions**.  

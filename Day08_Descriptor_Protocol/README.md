@@ -1,4 +1,4 @@
-# Day 8 – Descriptor Protocol
+# Day 8 – Descriptor Protocol 
 
 **Date:** 2025-09-05  
 

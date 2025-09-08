@@ -17,5 +17,5 @@
 - Tested performance in attribute access.  
 
 ## Files
-- `day9_slots_memory.py`  
+- `slotsmemory.py`  
 - `README.md`
